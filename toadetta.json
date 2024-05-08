@@ -162,7 +162,7 @@
     "background": {
             "blur": 0,
             "url": "https://media.discordapp.net/attachments/1178871945090060338/1237871853343608852/dtta.gif?ex=663d3980&is=663be800&hm=b32a6066331ff2db68898e5cb2ac31e2683dc1e3c9efb9dd83a00f6424d090d9&=&width=288&height=525",
-            "alpha": 1,
+            "alpha": 0,
             "color": "#1543cf"
     }
 }
