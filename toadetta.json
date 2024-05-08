@@ -15,9 +15,9 @@
                     "#fdfdff"
             ],
             "HEADER_SECONDARY": [
-                    "#BBBCC0",
-                    "#BBBCC0",
-                    "#BBBCC0"
+                    "#7b86b0",
+                    "#7b86b0",
+                    "#7b86b0"
             ],
             "TEXT_LINK": [
                     "#1445a0",
@@ -161,7 +161,7 @@
     },
     "background": {
             "blur": 0,
-            "url": "https://media.discordapp.net/attachments/1178871945090060338/1237867324149596202/dtta.png?ex=663d3548&is=663be3c8&hm=ebc4dc090a32486947dca821c51a5ec0fda3b1c4151d8c34e930911f178948ca&=&format=webp&quality=lossless&width=288&height=525",
+            "url": "https://media.discordapp.net/attachments/1178871945090060338/1237871853343608852/dtta.gif?ex=663d3980&is=663be800&hm=b32a6066331ff2db68898e5cb2ac31e2683dc1e3c9efb9dd83a00f6424d090d9&=&width=288&height=525",
             "alpha": 1,
             "color": "#1543cf"
     }
