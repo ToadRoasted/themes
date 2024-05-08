@@ -9,6 +9,9 @@
     ],
     "spec": 2,
     "semanticColors": {
+            "ANDROID_RIPPLE": [
+                   "#eb6f9250"
+            ],
             "HEADER_PRIMRARY": [
                     "#fdfdff",
                     "#fdfdff",
@@ -68,6 +71,10 @@
                     "#0c1129",
                     "#0c1129",
                     "#0c1129"
+            ],
+            "BG_BASE_TERTIARY": [
+                    "#44429e",
+                    "#121215"
             ],
             "BACKGROUND_ACCENT": [
                     "#0e6bbc",
