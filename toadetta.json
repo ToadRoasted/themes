@@ -15,9 +15,9 @@
                     "#fdfdff"
             ],
             "HEADER_SECONDARY": [
-                    "#7b86b0",
-                    "#7b86b0",
-                    "#7b86b0"
+                    "#1b47f2",
+                    "#1b47f2",
+                    "#1b47f2"
             ],
             "TEXT_LINK": [
                     "#1445a0",
@@ -40,9 +40,9 @@
                     "#fdfdff"
             ],
             "INTERACTIVE_HOVER": [
-                    "#0E151B",
-                    "#0E151B",
-                    "#0E151B"
+                    "#030721",
+                    "#030721",
+                    "#030721"
             ],
             "INTERACTIVE_ACTIVE": [
                     "#FFFFFF",
