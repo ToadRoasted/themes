@@ -154,10 +154,10 @@
             "RED_400": "#0e34bc",
             "YELLOW_300": "#0d67bc",
             "PRIMARY_100": "#ffffff",
-            "PRIMARY_600": "#131b22",
-            "PRIMARY_630": "#131b22",
-            "PRIMARY_800": "#131c22",
-            "PRIMARY_700": "#131c22"
+            "PRIMARY_600": "#0e1430",
+            "PRIMARY_630": "#0e1430",
+            "PRIMARY_800": "#0e293b",
+            "PRIMARY_700": "#030630"
     },
     "background": {
             "blur": 0,
