@@ -1,0 +1,168 @@
+{
+    "name": "Vision Pro",
+    "description": "Inspired by whattsdetta",
+    "authors": [
+        {
+            "name": "Toad",
+            "id": "338698719295832064"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+            "HEADER_PRIMRARY": [
+                    "#fdfdff",
+                    "#fdfdff",
+                    "#fdfdff"
+            ],
+            "HEADER_SECONDARY": [
+                    "#BBBCC0",
+                    "#BBBCC0",
+                    "#BBBCC0"
+            ],
+            "TEXT_LINK": [
+                    "#1445a0",
+                    "#1445a0",
+                    "#1445a0"
+            ],
+            "TEXT_NORMAL": [
+                    "#fdfdff",
+                    "#fdfdff",
+                    "#fdfdff"
+            ],
+            "TEXT_MUTED": [
+                    "#A3A6AB",
+                    "#A3A6AB",
+                    "#A3A6AB"
+            ],
+            "INTERACTIVE_NORMAL": [
+                    "#fdfdff",
+                    "#fdfdff",
+                    "#fdfdff"
+            ],
+            "INTERACTIVE_HOVER": [
+                    "#0E151B",
+                    "#0E151B",
+                    "#0E151B"
+            ],
+            "INTERACTIVE_ACTIVE": [
+                    "#FFFFFF",
+                    "#FFFFFF",
+                    "#FFFFFF"
+            ],
+            "BACKGROUND_PRIMRARY": [
+                    "#131b22",
+                    "#131b22",
+                    "#131b22"
+            ],
+            "BACKGROUND_SECONDARY": [
+                    "#222c32",
+                    "#222c32",
+                    "#222c32"
+            ],
+            "BACKGROUND_SECONDARY_ALT": [
+                    "#202d34",
+                    "#202d34",
+                    "#202d34"
+            ],
+            "BACKGROUND_TERTIARY": [
+                    "#192327",
+                    "#192327",
+                    "#192327"
+            ],
+            "BACKGROUND_ACCENT": [
+                    "#0e6bbc",
+                    "#0e6bbc",
+                    "#0e6bbc"
+            ],
+            "BACKGROUND_MOBILE_SECONDARY": [
+                    "#141b22",
+                    "#141b22",
+                    "#141b22"
+            ],
+            "BACKGROUND_FLOATING": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ],
+            "BACKGROUND_MOBILE_PRIMARY": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ],
+            "BACKGROUND_MODIFIER_HOVER": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ],
+            "BACKGROUND_MODIFIER_SELECTED": [
+                    "#082568",
+                    "#082568",
+                    "#082568"
+            ],
+            "BACKGROUND_MODIFIER_ACCENT": [
+                  "#131b22",
+                  "#131b22",
+                  "#131b22"  
+            ],
+            "CHANNEL_ICON": [
+                    "#84989f",
+                    "#84989f",
+                    "#84989f"
+            ],
+            "SCROLLBAR_THIN_THUMB": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "SCROLLBAR_THIN_TRACK": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "SCROLLBAR_AUTO_THUMB": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "SCROLLBAR_AUTO_TRACK": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+                    "#858b92",
+                    "#858b92",
+                    "#858b92"
+            ],
+            "SPOILER_HIDDEN_BACKGROUND": [
+                    "#292e31",
+                    "#292e31",
+                    "#292e31"
+            ],
+            "BACKGROUND_NESTED_FLOATING": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ]
+
+    },
+    "rawColors": {
+            "BRAND_260": "#0c439c",
+            "BRAND_500": "#1543cf",
+            "BRAND_560": "#5f68cb",
+            "GREEN_360": "#0a1359",
+            "RED_400": "#0e34bc",
+            "YELLOW_300": "#0d67bc",
+            "PRIMARY_100": "#ffffff",
+            "PRIMARY_600": "#131b22",
+            "PRIMARY_630": "#131b22",
+            "PRIMARY_800": "#131c22",
+            "PRIMARY_700": "#131c22"
+    },
+    "background": {
+            "blur": 0,
+            "url": "https://i.pinimg.com/736x/78/de/92/78de92ccefbb520610700c5db68ae973.jpg",
+            "alpha": 1,
+            "color": "#1543cf"
+    }
+}
