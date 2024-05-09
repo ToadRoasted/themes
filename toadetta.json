@@ -342,7 +342,7 @@
     },
     "plus":{
        "version":"0",
-       "iconpack":"rosiecord-plumpy",
+       "iconpack":"solar",
        "customOverlays": true,
        "icons":{
           "AccessibilityIcon": "#8784f5",
@@ -493,7 +493,7 @@
           "ic_trash_filled_16px": "#6f7deb",
           "ic_voice_settings_24px": "#31748f",
           "ic_warning_24px": "#6f7deb",
-          "icon-call": "#6f7deb",
+          "icon-call": "#eb6f6f",
           "icon-invite": "#9ccfd8",
           "icon-qs-links": "#9ccfd8",
           "icon-search": "#c4a7e7",
@@ -509,7 +509,7 @@
           "nav_header_connect": "#f6c177",
           "pencil": "#9ccfd8",
           "PencilIcon": "#9ccfd8",
-          "PhoneCallIcon": "#6f7deb",
+          "PhoneCallIcon": "#ebe56f",
           "pipit": "#c4a7e7",
           "ScreenIcon": "#9ccfd8",
           "settings": "#6f7deb",
