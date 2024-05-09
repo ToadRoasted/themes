@@ -78,7 +78,7 @@
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
         "#00033b",
-        "#140494"
+        "#0023c4"
     ],
     "BACKGROUND_NESTED_FLOATING": [
         "#16227d",
@@ -141,7 +141,7 @@
         "#000647"
     ],
     "CHANNEL_ICON": [
-        "#140494",
+        "#0023c4",
         "#BFBFBF"
     ],
       "BG_BASE_PRIMARY": [
@@ -202,10 +202,10 @@
     "rawColors": {
       "PRIMARY_DARK": "#0a0059",
       "PRIMARY_100": "#000354",
-      "PRIMARY_200": "#140494",
+      "PRIMARY_200": "#0023c4",
       "PRIMARY_300": "#0a0059",
-      "PRIMARY_360": "#140494",
-      "PRIMARY_400": "#140494",
+      "PRIMARY_360": "#0023c4",
+      "PRIMARY_400": "#0023c4",
       "PRIMARY_500": "#000354",
       "PRIMARY_600": "#00033b",
       "PRIMARY_630": "#01057d",
@@ -215,13 +215,13 @@
       "BRAND_260": "#040754",
       "BRAND_360": "#000354",
       "BRAND_500": "#020996",
-      "BRAND_560": "#140494",
+      "BRAND_560": "#0023c4",
       "BRAND_900": "#0a0059",
       "BRAND_NEW": "#0010ba",
       "YELLOW_300": "#8aafff",
-      "GREEN_360": "#140494",
+      "GREEN_360": "#0023c4",
       "DANGER": "#020996",
-      "RED_400": "#140494",
+      "RED_400": "#0023c4",
       "BLUE_345": "#8784f5",
       "PLUM_1": "#dee0f4",
       "PLUM_10": "#8784f5",
