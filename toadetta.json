@@ -54,14 +54,14 @@
     ],
     "BACKGROUND_SECONDARY_ALT": [
         "#3c419b",
-        "#0E0D10"
+        "#0e0d10"
     ],
     "BACKGROUND_TERTIARY": [
-        "#6c63b8",
+        "#000975",
         "#121215"
     ],
     "BG_BASE_TERTIARY": [
-      "#0a0045",
+      "#000645",
       "#121215"
   ],
     "BACKGROUND_ACCENT": [
@@ -145,10 +145,10 @@
         "#BFBFBF"
     ],
       "BG_BASE_PRIMARY": [
-      "#0a0045"
+      "#000645"
       ],
       "BG_BASE_SECONDARY": [
-      "#0a0045  "
+      "#000645  "
       ],
       "BORDER_FAINT": [
       "#a79ab3"
@@ -169,13 +169,13 @@
       "#eb6f92"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#6c63b8"
+      "#000975"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#6c63b8"
+      "#000975"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#6c63b8"
+      "#000975"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#a79ab3"
@@ -187,7 +187,7 @@
       "#F4EAE5"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#6c63b8"
+      "#000975"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#2933a3"
