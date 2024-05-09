@@ -61,7 +61,7 @@
         "#121215"
     ],
     "BG_BASE_TERTIARY": [
-      "#000645",
+      "#000326",
       "#121215"
   ],
     "BACKGROUND_ACCENT": [
@@ -145,10 +145,10 @@
         "#BFBFBF"
     ],
       "BG_BASE_PRIMARY": [
-      "#000645"
+      "#000326"
       ],
       "BG_BASE_SECONDARY": [
-      "#000645"
+      "#000326"
       ],
       "BORDER_FAINT": [
       "#00011f"
