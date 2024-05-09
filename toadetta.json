@@ -105,19 +105,19 @@
         "#180082"
     ],
     "SCROLLBAR_THIN_THUMB": [
-        "#0010ba",
+        "#8aafff",
         "#26273b"
     ],
     "SCROLLBAR_THIN_TRACK": [
-        "#0010ba",
-        "#0010ba"
+        "#8aafff",
+        "#8aafff"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-        "#0010ba",
+        "#8aafff",
         "#26273b"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-        "#0010ba",
+        "#8aafff",
         "#040a30"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
