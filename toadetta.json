@@ -66,7 +66,7 @@
   ],
     "BACKGROUND_ACCENT": [
         "#2933a3",
-        "#504863"
+        "#222340"
     ],
     "BACKGROUND_FLOATING": [
         "#2933a3",
@@ -74,26 +74,26 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
         "#3c419b",
-        "#222228"
+        "#000047"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
         "#3c419b",
-        "#655cb0"
+        "#140494"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-        "#514a8d",
-        "#4d4463"
+        "#16227d",
+        "#0a0059"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-        "#514a8d",
+        "#16227d",
         "#1F1F2B"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-        "#514a8d",
+        "#16227d",
         "#1a1926"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-        "#514a8d",
+        "#16227d",
         "#1F1F2B"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
@@ -200,23 +200,23 @@
     ]
     },
     "rawColors": {
-      "PRIMARY_DARK": "#4d4463",
+      "PRIMARY_DARK": "#0a0059",
       "PRIMARY_100": "#2E293F",
       "PRIMARY_200": "#D793B5",
-      "PRIMARY_300": "#4d4463",
+      "PRIMARY_300": "#0a0059",
       "PRIMARY_360": "#D793B5",
       "PRIMARY_400": "#D793B5",
       "PRIMARY_500": "#2E293F",
       "PRIMARY_600": "#3c419b",
       "PRIMARY_630": "#4D4660",
-      "PRIMARY_660": "#4d4463",
+      "PRIMARY_660": "#0a0059",
       "PRIMARY_700": "#2933a3",
       "PRIMARY_800": "#2933a3",
-      "BRAND_260": "#504863",
+      "BRAND_260": "#222340",
       "BRAND_360": "#2E293F",
       "BRAND_500": "#625682",
       "BRAND_560": "#D793B5",
-      "BRAND_900": "#4d4463",
+      "BRAND_900": "#0a0059",
       "BRAND_NEW": "#a297c3",
       "YELLOW_300": "#8c9fff",
       "GREEN_360": "#D793B5",
