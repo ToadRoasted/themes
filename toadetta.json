@@ -158,6 +158,9 @@
              "REDESIGN_CHAT_INPUT_BACKGROUND": [
                     "#6c63b8"
             ],
+            "BG_BACKDROP": [
+                   "#21202e50"
+           ]
     },
     "rawColors": {
             "BRAND_260": "#0c439c",
