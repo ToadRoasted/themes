@@ -45,7 +45,7 @@
         "#c9bbc8"
     ],
     "BACKGROUND_PRIMARY": [
-        "#3c419b",
+        "#0009a3",
         "#000647"
     ],
     "BACKGROUND_SECONDARY": [
@@ -53,7 +53,7 @@
         "#180082"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-        "#3c419b",
+        "#0009a3",
         "#0e0d10"
     ],
     "BACKGROUND_TERTIARY": [
@@ -73,11 +73,11 @@
         "#180082"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-        "#3c419b",
+        "#0009a3",
         "#000047"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-        "#3c419b",
+        "#0009a3",
         "#140494"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -181,7 +181,7 @@
       "#00011f"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#e0def4"
+      "#dee0f4"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
       "#F4EAE5"
@@ -201,19 +201,19 @@
     },
     "rawColors": {
       "PRIMARY_DARK": "#0a0059",
-      "PRIMARY_100": "#2E293F",
+      "PRIMARY_100": "#000354",
       "PRIMARY_200": "#140494",
       "PRIMARY_300": "#0a0059",
       "PRIMARY_360": "#140494",
       "PRIMARY_400": "#140494",
-      "PRIMARY_500": "#2E293F",
-      "PRIMARY_600": "#3c419b",
+      "PRIMARY_500": "#000354",
+      "PRIMARY_600": "#0009a3",
       "PRIMARY_630": "#4D4660",
       "PRIMARY_660": "#0a0059",
       "PRIMARY_700": "#2933a3",
       "PRIMARY_800": "#2933a3",
       "BRAND_260": "#040754",
-      "BRAND_360": "#2E293F",
+      "BRAND_360": "#000354",
       "BRAND_500": "#625682",
       "BRAND_560": "#140494",
       "BRAND_900": "#0a0059",
@@ -223,7 +223,7 @@
       "DANGER": "#625682",
       "RED_400": "#140494",
       "BLUE_345": "#00011f",
-      "PLUM_1": "#e0def4",
+      "PLUM_1": "#dee0f4",
       "PLUM_10": "#00011f",
       "PLUM_11": "#8c9fff",
       "PLUM_13": "#191724",
@@ -240,7 +240,7 @@
       "PLUM_3": "#2933a3",
       "PLUM_4": "#2933a3",
       "PLUM_6": "#f1f3f5",
-      "PLUM_9": "#e0def4",
+      "PLUM_9": "#dee0f4",
       "PRIMARY_230": "#2933a3",
       "PRIMARY_460": "#26233a",
       "PRIMARY_645": "#2933a3",
