@@ -160,10 +160,10 @@
       "#00011f"
       ],
       "CARD_SECONDARY_BG": [
-      "#acaaf2"
+      "#020042"
       ],
       "CARD_PRIMARY_BG": [
-      "#acaaf2"
+      "#020042"
       ],
       "MENTION_FOREGROUND": [
       "#6f7deb"
@@ -232,7 +232,7 @@
       "PLUM_17": "#0010ba",
       "PLUM_18": "#26233a",
       "PLUM_19": "#908caa",
-      "PLUM_20": "#acaaf2",
+      "PLUM_20": "#020042",
       "PLUM_21": "#191724",
       "PLUM_22": "#0010ba",
       "PLUM_24": "#0010ba",
