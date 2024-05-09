@@ -29,15 +29,15 @@
         "#C8B68E"
     ],
     "INTERACTIVE_NORMAL": [
-        "#fbd1e6",
+        "#8c9fff",
         "#d8c28f"
     ],
     "INTERACTIVE_HOVER": [
-        "#fbd1e6",
+        "#8c9fff",
         "#d8c28f"
     ],
     "INTERACTIVE_ACTIVE": [
-        "#fbd1e6",
+        "#8c9fff",
         "#d8c28f"
     ],
     "INTERACTIVE_MUTED": [
@@ -133,8 +133,8 @@
         "#7c6ea7"
     ],
     "TEXT_LINK": [
-        "#fbd1e6",
-        "#fbd1e6"
+        "#8c9fff",
+        "#8c9fff"
     ],
     "KEYBOARD": [
         "#9874b5",
@@ -218,14 +218,14 @@
       "BRAND_560": "#D793B5",
       "BRAND_900": "#4d4463",
       "BRAND_NEW": "#a297c3",
-      "YELLOW_300": "#fbd1e6",
+      "YELLOW_300": "#8c9fff",
       "GREEN_360": "#D793B5",
       "DANGER": "#625682",
       "RED_400": "#D793B5",
       "BLUE_345": "#a79ab3",
       "PLUM_1": "#e0def4",
       "PLUM_10": "#a79ab3",
-      "PLUM_11": "#fbd1e6",
+      "PLUM_11": "#8c9fff",
       "PLUM_13": "#191724",
       "PLUM_15": "#26233a",
       "PLUM_16": "#a79ab3",
