@@ -151,13 +151,13 @@
       "#000326"
       ],
       "BORDER_FAINT": [
-      "#00011f"
+      "#8784f5"
       ],
       "BORDER_STRONG": [
-      "#00011f"
+      "#8784f5"
       ],      
       "BORDER_SUBTLE": [
-      "#00011f"
+      "#8784f5"
       ],
       "CARD_SECONDARY_BG": [
       "#020042"
@@ -178,7 +178,7 @@
       "#000975"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#00011f"
+      "#8784f5"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#dee0f4"
@@ -222,13 +222,13 @@
       "GREEN_360": "#140494",
       "DANGER": "#020996",
       "RED_400": "#140494",
-      "BLUE_345": "#00011f",
+      "BLUE_345": "#8784f5",
       "PLUM_1": "#dee0f4",
-      "PLUM_10": "#00011f",
+      "PLUM_10": "#8784f5",
       "PLUM_11": "#8aafff",
       "PLUM_13": "#191724",
       "PLUM_15": "#26233a",
-      "PLUM_16": "#00011f",
+      "PLUM_16": "#8784f5",
       "PLUM_17": "#0010ba",
       "PLUM_18": "#26233a",
       "PLUM_19": "#908caa",
@@ -345,11 +345,11 @@
        "iconpack":"rosiecord-plumpy",
        "customOverlays": true,
        "icons":{
-          "AccessibilityIcon": "#00011f",
+          "AccessibilityIcon": "#8784f5",
           "account": "#31748f",
           "add": "#9ccfd8",
           "android-close": "#6f7deb",
-          "ArrowAngleLeftUpIcon": "#00011f",
+          "ArrowAngleLeftUpIcon": "#8784f5",
           "arrow-down": "#c4a7e7",
           "ArrowLargeLeftIcon": "#c4a7e7",
           "arrow-sm-down": "#c4a7e7",
@@ -360,7 +360,7 @@
           "ChannelNotificationIcon-primary": "#c4a7e7",
           "ChannelNotificationIcon-secondary": "#6f7deb",
           "ChannelListMagnifyingGlassIcon": "#c4a7e7",
-          "ChatMarkUnreadIcon": "#00011f",
+          "ChatMarkUnreadIcon": "#8784f5",
           "ChevronSmallDownIcon": "#c4a7e7",
           "close": "#6f7deb",
           "copy": "#9ccfd8",
@@ -386,9 +386,9 @@
           "ic_behavior_24px": "#c4a7e7",
           "ic_big_arrow_down": "#c4a7e7",
           "ic_call_ended": "#6f7deb",
-          "ic_chat_bubble_12px": "#00011f",
-          "ic_chat_bubble_16px": "#00011f",
-          "ic_chat_bubble_32px": "#00011f",
+          "ic_chat_bubble_12px": "#8784f5",
+          "ic_chat_bubble_16px": "#8784f5",
+          "ic_chat_bubble_32px": "#8784f5",
           "ic_check": "#9ccfd8",
           "ic_check__overlay": "#26233a",
           "ic_chevron_down_24px": "#c4a7e7",
@@ -421,7 +421,7 @@
           "ic_group_dm": "#31748f",
           "ic_group_edit_18px": "#9ccfd8",
           "ic_header_members_add_24px": "#9ccfd8",
-          "ic_help_24px": "#00011f",
+          "ic_help_24px": "#8784f5",
           "ic_home_event": "#ebbcba",
           "ic_image": "#c4a7e7",
           "ic_info_24px": "#f6c177",
@@ -440,7 +440,7 @@
           "ic_message_copy": "#9ccfd8",
           "ic_message_delete": "#6f7deb",
           "ic_message_edit": "#9ccfd8",
-          "ic_message_pin": "#00011f",
+          "ic_message_pin": "#8784f5",
           "ic_mic_neutral": "#c4a7e7",
           "ic_mic_muted_neutral": "#6f7deb",
           "ic_minimize": "#c4a7e7",
@@ -483,7 +483,7 @@
           "ic_soundboard": "#c4a7e7",
           "ic_soundboard_muted": "#6f7deb",
           "ic_spotify_white_16px": "#1ed760",
-          "ic_star_filled": "#00011f",
+          "ic_star_filled": "#8784f5",
           "ic_sticker_24px": "#6f7deb",
           "ic_sync_24px": "#9ccfd8",
           "ic_text_channel_nsfw_16px": "#6f7deb",
@@ -498,14 +498,14 @@
           "icon-qs-links": "#9ccfd8",
           "icon-search": "#c4a7e7",
           "img_account_sync_spotify_white": "#1ed760",
-          "img_help_icon": "#00011f",
+          "img_help_icon": "#8784f5",
           "img_no_results_dark_theme": "#c4a7e7",
           "KeyIcon": "#6f7deb",
           "LanguageIcon": "#f5a97f",
           "LinkIcon": "#9ccfd8",
           "MagnifyingGlassIcon": "#c4a7e7",
           "member_list_badge_16px": "#f6c177",
-          "Messages": "#00011f",
+          "Messages": "#8784f5",
           "nav_header_connect": "#f6c177",
           "pencil": "#9ccfd8",
           "PencilIcon": "#9ccfd8",
