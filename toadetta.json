@@ -41,12 +41,12 @@
         "#d8c28f"
     ],
     "INTERACTIVE_MUTED": [
-        "#B597A6",
+        "#413e70",
         "#c9bbc8"
     ],
     "BACKGROUND_PRIMARY": [
         "#3c419b",
-        "#161519"
+        "#000647"
     ],
     "BACKGROUND_SECONDARY": [
         "#5B539D",
@@ -138,7 +138,7 @@
     ],
     "KEYBOARD": [
         "#9874b5",
-        "#161519"
+        "#000647"
     ],
     "CHANNEL_ICON": [
         "#D793B5",
